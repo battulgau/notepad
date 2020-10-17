@@ -1,0 +1,9 @@
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\bin\Debug\LAB03.exe.config
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\bin\Debug\LAB03.exe
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\bin\Debug\LAB03.pdb
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\obj\Debug\LAB03.csprojResolveAssemblyReference.cache
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\obj\Debug\LAB03.Form1.resources
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\obj\Debug\LAB03.Properties.Resources.resources
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\obj\Debug\LAB03.csproj.GenerateResource.Cache
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\obj\Debug\LAB03.exe
+c:\users\gugu\documents\visual studio 2013\Projects\LAB03\LAB03\obj\Debug\LAB03.pdb
